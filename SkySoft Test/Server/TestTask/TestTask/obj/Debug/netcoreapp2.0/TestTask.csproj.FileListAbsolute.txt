@@ -1,0 +1,11 @@
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.deps.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.runtimeconfig.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.runtimeconfig.dev.json
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.dll
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\bin\Debug\netcoreapp2.0\TestTask.pdb
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.csprojAssemblyReference.cache
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.AssemblyInfo.cs
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.dll
+C:\Users\Roman\Documents\Visual Studio 2017\Projects\TestTask\TestTask\obj\Debug\netcoreapp2.0\TestTask.pdb
